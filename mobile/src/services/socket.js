@@ -27,6 +27,7 @@ function disconnect() {
 
 
 export {
+    subscribeToNewDevs,
     connect,
     disconnect,
 }
